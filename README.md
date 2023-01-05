@@ -1,2 +1,2 @@
 # OIBGRIP
-Task of internship at Oasis Infobyte
+Tasks of internship at Oasis Infobyte
